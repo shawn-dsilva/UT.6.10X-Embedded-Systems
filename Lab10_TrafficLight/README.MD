@@ -20,6 +20,10 @@ Lab 10 from UTAustinX Embedded Systems course
 * 3 x 10k ohm resistors
 * 3 x push button tactile switches
 
+## Wiring Diagram
+
+  TODO
+
 ## Usage
 
 * Open "Lab10.uvproj"
@@ -29,5 +33,6 @@ Lab 10 from UTAustinX Embedded Systems course
 * Press the Reset button on your board to start execution
 
 ## Picture
+
 
 ![Figure 1-1](https://i.imgur.com/IDa8j0r.jpg "Figure 1-1")
