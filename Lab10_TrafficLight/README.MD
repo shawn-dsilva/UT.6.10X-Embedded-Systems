@@ -22,7 +22,7 @@ Lab 10 from UTAustinX Embedded Systems course
 
 ## Wiring Diagram
 
-  TODO
+![Figure 2-1](https://i.imgur.com/M9L171a.png "Figure 2-1")
 
 ## Usage
 
